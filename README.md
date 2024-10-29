@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Kevin</h1>
 <h3 align="center">Un apasionado desarrollador de backend y fullstack de Perú</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevin262022" alt="kevin262022" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevin262022" alt="" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en [Autenticación de Nuevos Usuarios](https://github.com/Kevin962022/autenticacion-flask-python-react.js)
 
