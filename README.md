@@ -11,7 +11,7 @@
 
 - 👨 💻 Todos mis proyectos están disponibles en [https://github.com/Kevin962022](https://github.com/Kevin962022)
 
-- 💬 Pregúntame sobre **Python, Java, Flask, SQL, POO, programación funcional y más**
+- 💬 Pregúntame sobre **Python, Java, Flask, SQL, POO, programación funcional y más..**
 
 - 📫 Cómo contactarme **villafuerte.montero.26@gmail.com**
 
