@@ -15,7 +15,7 @@
 
 - 📫 Cómo contactarme **villafuerte.montero.26@gmail.com**
 
-- ⚡ Dato curioso **Soy alguien muy carismático, gracioso y respetuoso.**
+- ⚡ Dato curioso **Dicen que tengo cara de perro malo, pero no muerdo 🐶**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
