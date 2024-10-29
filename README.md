@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Kevin 😎</h1>
+<h1 align="center">Hola 👋, soy Kevin 🧔</h1>
 <h3 align="center">Un apasionado desarrollador de backend y fullstack de Perú ✅</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevin262022" alt="" /></a> </p>
