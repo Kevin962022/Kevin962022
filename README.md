@@ -5,15 +5,15 @@
 
 - 🔭 Actualmente estoy trabajando en [Autenticación de Nuevos Usuarios](https://github.com/Kevin962022/autenticacion-flask-python-react.js)
 
-- 🌱 Actualmente estoy aprendiendo **IA aplicada, ciberseguridad**-
-
-👯 Tengo un proyecto colaborativo en [ResuelveYa](https://github.com/Kevin962022/resuelveYa-app)
+- 🌱 Actualmente estoy aprendiendo **IA aplicada, ciberseguridad**
+  
+- 👯 Tengo un proyecto colaborativo en [ResuelveYa](https://github.com/Kevin962022/resuelveYa-app)
 
 - 👨 💻 Todos mis proyectos están disponibles en [https://github.com/Kevin962022](https://github.com/Kevin962022)
 
 - 💬 Pregúntame sobre **Python, Java, Flask, SQL**-
 
-📫 Cómo contactarme **villafuerte.montero.26@gmail.com**
+- 📫 Cómo contactarme **villafuerte.montero.26@gmail.com**
 
 - ⚡ Dato curioso **Soy alguien muy carismático, gracioso y respetuoso.**<
 
