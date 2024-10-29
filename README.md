@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando en [Autenticación de Nuevos Usuarios](https://github.com/Kevin962022/autenticacion-flask-python-react.js)
 
-- 🌱 Actualmente estoy aprendiendo **IA aplicada, ciberseguridad**
+- 🌱 Actualmente estoy aprendiendo **IA aplicada y ciberseguridad**
   
 - 👯 Tengo un proyecto colaborativo en [ResuelveYa](https://github.com/Kevin962022/resuelveYa-app)
 
