@@ -15,9 +15,9 @@
 
 - 📫 Cómo contactarme **villafuerte.montero.26@gmail.com**
 
-- ⚡ Dato curioso **Soy alguien muy carismático, gracioso y respetuoso.**<
+- ⚡ Dato curioso **Soy alguien muy carismático, gracioso y respetuoso.**
 
-h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kevin-villafuerte-montero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin-villafuerte-montero" height="30" width="40" /></a>
 </p>
