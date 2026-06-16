@@ -11,7 +11,6 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Software** en la Universidad Tecnológica del Perú
 - 💻 Certificado en **Full Stack Software Development** por 4 Geeks Academy
 - 🔐 Certificado en **Fundamentos de Ciberseguridad** por ASICI (2024)
 - 🌱 Actualmente aprendiendo **IA aplicada y ciberseguridad**
