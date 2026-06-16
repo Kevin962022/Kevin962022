@@ -1,10 +1,7 @@
 <h1 align="center">Hola 👋, soy Kevin 🧔</h1>
-<h3 align="center">Desarrollador Full Stack & WordPress · Landing Pages · Ciberseguridad básica · Perú 🇵🇪</h3>
+<h3 align="center">Desarrollador Full Stack & WordPress · Landing Pages · Ciberseguridad · Perú 🇵🇪</h3>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kevin962022" alt="trofeos" />
-  </a>
 </p>
 
 ---
@@ -13,6 +10,7 @@
 
 - 💻 Certificado en **Full Stack Software Development** por 4 Geeks Academy
 - 🔐 Certificado en **Fundamentos de Ciberseguridad** por ASICI (2024)
+- 🔐 Certificado en **Principios de Ciberseguridad** por CISCO ACADEMY (2026)
 - 🌱 Actualmente aprendiendo **IA aplicada y ciberseguridad**
 - 🛠️ Trabajo con **WordPress, HTML, CSS, JavaScript, Python, Flask, React, SQL**
 - 👯 Proyecto colaborativo: [ResuelveYa](https://github.com/Kevin962022/resuelveYa-app)
